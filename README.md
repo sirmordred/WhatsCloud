@@ -24,6 +24,7 @@ WhatsCloud might help you find out by analyzing your WhatsApp chats on the fly w
 - etc.
 
 ### How is it working?
+
 Although WhatsApp doesn’t give us a public API, it does allow users to export their chat history into a *.txt file.
 
 WhatsCloud analyzes that user generated export of chat history on the fly and gives various graphical represantations of analyzed statistical data
